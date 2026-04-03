@@ -1,0 +1,35 @@
+/* XPM */
+static char *Appicon16[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16       12            1",
+/* colors */
+". c #ffffff",
+"# c None",
+"a c #636363",
+"b c #7b7b7b",
+"c c #848484",
+"d c #949494",
+"e c #9c9c9c",
+"f c #cecece",
+"g c #ffff9c",
+"h c #ffff63",
+"i c #31319c",
+"j c #000000",
+/* pixels */
+"####jjjjjj######",
+"###jff.feejj####",
+"###jd.ff.feejj##",
+"###jeii.ff.feej#",
+"###jeiiijjjjbfj#",
+"###jei.jhhhhjjj#",
+"###jeijcfffhhcj#",
+"###jejhfg...hhj#",
+"##jjjjhf....gfj#",
+"#j.ajjhf...ggfjj",
+"j.af.jhhgf.ggfjj",
+"jff.acjhhgghfjj#",
+"#jjff.jchfffjjj#",
+"###jjffjjjjjjjjj",
+"#####jjffaj##jjj",
+"#######jjj####jj"
+};

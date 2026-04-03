@@ -1,0 +1,31 @@
+/* XPM */
+static char *critical-16[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        8            1",
+/* colors */
+". c #000000",
+"# c #c0c0c0",
+"a c #ffff33",
+"b c #868686",
+"c c #f1f1f1",
+"d c #ff0000",
+"e c #ffff00",
+"f c None",
+/* pixels */
+"ffffffbeabffffff",
+"fffffbe..abfffff",
+"ffffbe.ee.abffff",
+"fffbe.ebbe.ebfff",
+"ffbe.ebddbe.ebff",
+"fbe.eebddbee.abf",
+"be.eeebddbeee.ab",
+"e.eeee#dd#eeee.e",
+"a.eeeecddceeee.e",
+"ba.eeeeddeeee.eb",
+"fba.eeeeeeee.ebf",
+"ffba.eeddee.ebff",
+"fffba.edde.ebfff",
+"ffffba.ee.ebffff",
+"fffffba..ebfffff",
+"ffffffbeebffffff"
+};

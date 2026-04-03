@@ -1,0 +1,28 @@
+/* XPM */
+static char *appicon16[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        5            1",
+/* colors */
+". c #ffffff",
+"# c #ff3100",
+"a c #ceceff",
+"b c None",
+"c c #000000",
+/* pixels */
+"bbbbbbbbbbbbbbbb",
+"bbbbbcccccccbbbb",
+"bbbbcc.....cbbbb",
+"bbbc.c....acbbbb",
+"bbcccc##..acbbbb",
+"bbc...##c.acbbbb",
+"bbc...##c.acbbbb",
+"bbc...##caacbbbb",
+"bbc...##caacbbbb",
+"bbc...##caacbbbb",
+"bbc...aaaaaccbbb",
+"bbc...##caaccccb",
+"bbc.aa##caacccbb",
+"bbcaaaaaaaaccbbb",
+"bbccccccccccbbbb",
+"bbbbbbbbbbbbbbbb"
+};

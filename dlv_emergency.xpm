@@ -1,0 +1,28 @@
+/* XPM */
+static char *emergency[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        5            1",
+/* colors */
+". c #000000",
+"# c #808080",
+"a c #c0c0c0",
+"b c None",
+"c c #ffffff",
+/* pixels */
+"bbbbbbbbbbbbbbbb",
+"bbbbbccccccbbbbb",
+"bbbbccccccccbbbb",
+"bbbccccccccccbbb",
+"bbbccccccccccbbb",
+"bbbca#acca#ac#bb",
+"bbbc..#cc#..c#bb",
+"bbbc.#cccc#.c#bb",
+"bbbccccaacccc#bb",
+"bbbcccc##cccc#bb",
+"bbb#ccc..ccc#.bb",
+"bbbb#cccccc#.bbb",
+"bbbb#a#a.#a#.bbb",
+"bbbb#aa.#aa#.bbb",
+"bbbbb#cccc#.bbbb",
+"bbbbbb#####bbbbb"
+};

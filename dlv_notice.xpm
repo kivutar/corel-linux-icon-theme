@@ -1,0 +1,27 @@
+/* XPM */
+static char *notice[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        4            1",
+/* colors */
+". c #000000",
+"# c #ffff00",
+"a c None",
+"b c #ffffff",
+/* pixels */
+"aaaaaaaaaaaaaaaa",
+"aaaaaa....aaaaaa",
+"aaaa..b#b#..aaaa",
+"aaa.#b#b#b#b.aaa",
+"aa.#b#b..#b#b.aa",
+"aa.b#b#..b#b#.aa",
+"a.b#b#b..#b#b#.a",
+"a.#b#b#..b#b#b.a",
+"a.b#b#b..#b#b#.a",
+"a.#b#b#b#b#b#b.a",
+"aa.#b#b..#b#b.aa",
+"aa.b#b#..b#b#.aa",
+"aaa.b#b#b#b#.aaa",
+"aaaa..#b#b..aaaa",
+"aaaaaa....aaaaaa",
+"aaaaaaaaaaaaaaaa"
+};

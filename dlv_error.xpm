@@ -1,0 +1,29 @@
+/* XPM */
+static char *error-16[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        6            1",
+/* colors */
+". c #000000",
+"# c #ffff33",
+"a c #868686",
+"b c #ff0000",
+"c c #ffff00",
+"d c None",
+/* pixels */
+"ddddddac#adddddd",
+"dddddac..#addddd",
+"ddddac.cc.#adddd",
+"dddac.cccc.#addd",
+"ddac.cccccc.#add",
+"dac.cbbccbbc.#ad",
+"ac.cccbbbbccc.#a",
+"c.cccccbbccccc.c",
+"#.ccccbbbbcccc.c",
+"a#.ccbbccbbcc.ca",
+"da#.cccccccc.cad",
+"dda#.cccccc.cadd",
+"ddda#.cccc.caddd",
+"dddda#.cc.cadddd",
+"ddddda#..caddddd",
+"ddddddaccadddddd"
+};

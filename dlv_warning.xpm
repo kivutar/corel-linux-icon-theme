@@ -1,0 +1,30 @@
+/* XPM */
+static char *warning-16[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        7            1",
+/* colors */
+". c #000000",
+"# c #c0c0c0",
+"a c #ffff33",
+"b c #868686",
+"c c #f1f1f1",
+"d c #ffff00",
+"e c None",
+/* pixels */
+"eeeeeebdabeeeeee",
+"eeeeebd..abeeeee",
+"eeeebd.dd.abeeee",
+"eeebd.dbbd.abeee",
+"eebd.db..bd.abee",
+"ebd.ddb..bdd.abe",
+"bd.dddb..bddd.ab",
+"d.dddd#..#dddd.d",
+"a.ddddc..cdddd.d",
+"ba.dddd..dddd.db",
+"eba.dddddddd.dbe",
+"eeba.dd..dd.dbee",
+"eeeba.d..d.dbeee",
+"eeeeba.dd.dbeeee",
+"eeeeeba..dbeeeee",
+"eeeeeebddbeeeeee"
+};
