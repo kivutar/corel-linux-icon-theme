@@ -1,0 +1,1 @@
+# corel-linux-icon-theme
